@@ -1,5 +1,9 @@
 # 은솔이의 미니 홈페이지
 
+## search 추가
+
+- search.md
+
 ## SIDEBAR 추가
 
 - sidebar.md
