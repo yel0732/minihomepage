@@ -4,6 +4,15 @@
 
 - cart.md
 
+## 서비스 소개 페이지 추가
+
+- about.md
+
+## 내비게이션 추가
+
+- navigation.md
+- 로그인 / 로그아웃 추가
+
 ## 스타일 구성
 
 - style.md
