@@ -1,5 +1,9 @@
 # 은솔이의 미니 홈페이지
 
+## SIDEBAR 추가
+
+- sidebar.md
+
 ## 장바구니 페이지 추가
 
 - cart.md
